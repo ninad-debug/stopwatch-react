@@ -1,0 +1,32 @@
+.heading {
+  text-align: center;
+  color: #fff;
+  font-size: 70px;
+}
+
+.showTime {
+  text-align: center;
+  color: #fff;
+  font-size: 80px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin: 20px;
+  border: none;
+  padding: 10px 30px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.btn:first-child {
+  background-color: green;
+}
+
+.btn:last-child {
+  background-color: red;
+}
